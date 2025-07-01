@@ -3,3 +3,6 @@
 
 >> VERSION : 1.1
 -- comments added for other traversal
+
+>> VERSION : 1.2
+-- height calculation of binary tree added (using BFS)
