@@ -1,3 +1,19 @@
+'''
+PREORDER : 
+1. visit root
+2. visit left subtree
+3. visit right subtree
+
+POSTORDER : 
+1. visit left subtree
+2. visit right subtree
+3. visit root
+
+INORDER : 
+1. visit left subtree
+2. visit root
+3. visit right subtree
+'''
 class Node:
     def __init__(self, value):
         self.value = value
