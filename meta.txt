@@ -1,0 +1,5 @@
+>> VERSION : 1.1
+-- binary tree - preorder file added
+
+>> VERSION : 1.1
+-- comments added for other traversal
